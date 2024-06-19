@@ -1,7 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Philip Kwaku Duah De-Graft",
+	"description": "A project that does something awesome",
+	"keywords": [ 
+		"freecodecamp",
+		"backend", 
+		"web", 
+		"development" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		
 	},
 	"main": "server.js",
 	"scripts": {
